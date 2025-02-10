@@ -1,6 +1,6 @@
 /* This is a stylesheet. */
 
-.container .text {
+    div p {
     background-color: yellow;
     color: red;
     font-size: 20px;
